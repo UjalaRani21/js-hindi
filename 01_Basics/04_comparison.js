@@ -10,9 +10,9 @@
 
 // is tino ka output false hoga
 
-console.log("2" == 2);
+console.log("2" == 2); // output is true
 
 // ===
-console.log("2" === 2);
-console.log(2 === 2);
+console.log("2" === 2);  // output is false
+console.log(2 === 2); // output is true
 
