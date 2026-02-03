@@ -39,6 +39,39 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let someNumber = 45
 let stringNumber = String(someNumber)
 
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// ************* OPERATIONS ************
+
+let value = 4
+let negValue = -value
+
+console.log(negValue);
+
+let str1 = "HI"
+let srt2 = " Ujala"
+let str3 = str1 + srt2
+//console.log(str3);
+
+// console.log(1 + "2");
+// console.log("1" + "2");
+// console.log("1" + 2);
+// console.log(1 + 1 + "2");
+// console.log("1" + (3 + 2));
+// console.log("1" + 6 + "2");
+
+// console.log(true);
+// console.log(+true);
+// console.log(-true);
+// console.log(+"");
+// console.log(+ "Ujala");
+// console.log(false);
+// console.log(-false)
+// console.log(+false);
+
+
+
+
+
 

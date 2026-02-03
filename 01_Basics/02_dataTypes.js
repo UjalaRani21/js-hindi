@@ -25,16 +25,11 @@
 
   object (this is also a data type)
   */
- 
+
    let age = 20
 
   console.log(typeof "Ujala");
   console.log(typeof age);
   console.log(typeof null);
   console.log(typeof undefined);
-  
-  
-  
-  
-
   
