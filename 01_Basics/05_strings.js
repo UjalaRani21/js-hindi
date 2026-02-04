@@ -38,7 +38,8 @@ console.log(newStringOne.trimEnd());
 const url = "https://ujala.com/ujala%20rani"
 console.log(url.replace('%20','-'));
 
-console.log(url.includes('ujala'));
-console.log(url.includes('jatin'));
+console.log(url.includes('ujala')); // output: true
+console.log(url.includes('jatin')); // output: false
 
 console.log(gameName.split('-'))
+// output: [ 'ujala', 'dot', 'com' ]
